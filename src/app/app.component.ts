@@ -10,4 +10,11 @@ import { orderClass } from './orderClass';
 })
 export class AppComponent implements OnInit{
   title = 'mockAssess';
+
+
+
+  ngOnInit() {
+
+  }
+  
 }
